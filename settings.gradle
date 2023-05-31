@@ -1,0 +1,2 @@
+rootProject.name = "Delete_and_Undo_RecyclerView"
+include ':app'
